@@ -1,0 +1,17 @@
+#roll_search.py
+  -searchroll()
+   - taeke roll no as input from user
+    - if roll exist display its data
+#school_search.py
+-searchschool()
+   =school name as input 
+   - if exist display all record
+#delete_result.py
+    -resultdelete()
+      - roll as input 
+      - if exist delete record
+# add_result.py
+  -resultadd()
+    -roll number as input 
+      - roll if not exist ask the pther details
+      =add into the file
